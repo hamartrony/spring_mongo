@@ -9,5 +9,6 @@ import com.example.demo.domain.User;
 
 
 public interface UserRepository extends MongoRepository<User, String> {
-  
+
+
 }
